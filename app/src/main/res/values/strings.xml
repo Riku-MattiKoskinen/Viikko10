@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jostoimisi</string>
+    <string-array name="degree_choices">
+        <item>Kanditutkinto</item>
+        <item>Maisteritutkinto</item>
+        <item>Tohtori</item>
+    </string-array>
+</resources>
